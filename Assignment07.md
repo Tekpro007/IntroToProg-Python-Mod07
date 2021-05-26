@@ -13,6 +13,7 @@ Before starting my script, I created a new project in PyCharm and named it assig
 ![image](https://user-images.githubusercontent.com/83742262/119585954-a6fd1700-bd80-11eb-8c77-3f843e229759.png)
 
 Figure 1 (Creating Project in PyCharm)
+
 I created the Python script Assigment07.py and put it in the class module into the assignment07 folder.   I then navigated from File->Open in PyCharm to the script Assigment07.py and clicked ok as see in figure 2. 
   
 Figure 2 Creating Python file
