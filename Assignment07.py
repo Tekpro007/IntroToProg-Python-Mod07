@@ -4,7 +4,7 @@
 # Github Link: https://github.com/Tekpro007/IntroToProg-Python-Mod07
 # ChangeLog (Who,When,What):
 # Kyle Gilpin, 5.24.2021, Created script with header information and outline of script
-# Kyle Gilpin, 5.25.2021, Created fucntions
+# Kyle Gilpin, 5.25.2021, Created functions
 #Kyle Gilpin, 5.25.2021, Created presenation portion of script
 
 #------------------------------#
